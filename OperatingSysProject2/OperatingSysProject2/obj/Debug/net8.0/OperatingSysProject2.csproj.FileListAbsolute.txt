@@ -1,0 +1,14 @@
+C:\Users\Conner Handley\source\repos\OperatingSysProject2\OperatingSysProject2\bin\Debug\net8.0\OperatingSysProject2.exe
+C:\Users\Conner Handley\source\repos\OperatingSysProject2\OperatingSysProject2\bin\Debug\net8.0\OperatingSysProject2.deps.json
+C:\Users\Conner Handley\source\repos\OperatingSysProject2\OperatingSysProject2\bin\Debug\net8.0\OperatingSysProject2.runtimeconfig.json
+C:\Users\Conner Handley\source\repos\OperatingSysProject2\OperatingSysProject2\bin\Debug\net8.0\OperatingSysProject2.dll
+C:\Users\Conner Handley\source\repos\OperatingSysProject2\OperatingSysProject2\bin\Debug\net8.0\OperatingSysProject2.pdb
+C:\Users\Conner Handley\source\repos\OperatingSysProject2\OperatingSysProject2\obj\Debug\net8.0\OperatingSysProject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Conner Handley\source\repos\OperatingSysProject2\OperatingSysProject2\obj\Debug\net8.0\OperatingSysProject2.AssemblyInfoInputs.cache
+C:\Users\Conner Handley\source\repos\OperatingSysProject2\OperatingSysProject2\obj\Debug\net8.0\OperatingSysProject2.AssemblyInfo.cs
+C:\Users\Conner Handley\source\repos\OperatingSysProject2\OperatingSysProject2\obj\Debug\net8.0\OperatingSysProject2.csproj.CoreCompileInputs.cache
+C:\Users\Conner Handley\source\repos\OperatingSysProject2\OperatingSysProject2\obj\Debug\net8.0\OperatingSysProject2.dll
+C:\Users\Conner Handley\source\repos\OperatingSysProject2\OperatingSysProject2\obj\Debug\net8.0\refint\OperatingSysProject2.dll
+C:\Users\Conner Handley\source\repos\OperatingSysProject2\OperatingSysProject2\obj\Debug\net8.0\OperatingSysProject2.pdb
+C:\Users\Conner Handley\source\repos\OperatingSysProject2\OperatingSysProject2\obj\Debug\net8.0\OperatingSysProject2.genruntimeconfig.cache
+C:\Users\Conner Handley\source\repos\OperatingSysProject2\OperatingSysProject2\obj\Debug\net8.0\ref\OperatingSysProject2.dll
